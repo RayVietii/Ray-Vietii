@@ -13,7 +13,7 @@ Welcome to my GitHub space. I build machine learning models, design fantasy worl
 - **Class V Amplifier** – My original analog amp topology, fully documented and tested.
 
 > Connect with me:
-> [https://youtube.com/@ray_vietii?si=54YiV0N5UfnqqSMm](YouTube)
-> [https://www.instagram.com/ray_vietii?igsh=MWczbzNtcTgwejhyeQ==](Instagram)
-> [https://civitai.com/user/RayVietii](CivitAI)
-> [https://pixai.art/@rayvietii/artworks](PixAI)
+> ([YouTube](https://youtube.com/@ray_vietii?si=54YiV0N5UfnqqSMm))
+> ([Instagram](https://www.instagram.com/ray_vietii?igsh=MWczbzNtcTgwejhyeQ==))
+> ([CivitAI](https://civitai.com/user/RayVietii))
+> ([PixAI](https://pixai.art/@rayvietii/artworks))
