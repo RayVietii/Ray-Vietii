@@ -24,4 +24,4 @@ I'm also known as Rico 'Ray Vietii' Prayoga
 > ([CivitAI](https://civitai.com/user/RayVietii))
 > ([PixAI](https://pixai.art/@rayvietii/artworks))
 
-[Ray Vietii Logo](./RayVietii-logo-2025.png)
+![Ray Vietii Logo](./RayVietii-logo-2025.png)
