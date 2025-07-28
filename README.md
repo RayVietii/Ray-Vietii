@@ -4,7 +4,7 @@
 
 Hey there, I'm Ray Vietii.  
 I explore machine learning, fantasy worldbuilding, original languages, and sound creation.  
-Most of what I do is self-driven, experimental, and a bit chaotic — but it's mine.
+Most of what I do is self-driven, experimental, and a bit chaotic, but it's mine.
 
 ---
 
