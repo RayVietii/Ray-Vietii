@@ -23,3 +23,5 @@ I'm also known as Rico 'Ray Vietii' Prayoga
 > ([Instagram](https://www.instagram.com/ray_vietii?igsh=MWczbzNtcTgwejhyeQ==))
 > ([CivitAI](https://civitai.com/user/RayVietii))
 > ([PixAI](https://pixai.art/@rayvietii/artworks))
+
+[Ray Vietii Logo](./RayVietii-logo-2025.png)
